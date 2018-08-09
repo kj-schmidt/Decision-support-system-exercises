@@ -19,3 +19,5 @@ Linear model selection (subset selection)
 lab651.py - Best Subset Selection
 lab652.py - Forward and Backward Stepwise Selection
 lab653.py - Choosing Among Models Using the Validation Set Approach and Cross-Validation
+
+The exercises are based around dataset included in the R-distribution. These are also available here https://github.com/selva86/datasets
